@@ -1,0 +1,2 @@
+Warning: Identity file /data/MyKeyPair.pem not accessible: No such file or directory.
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic).

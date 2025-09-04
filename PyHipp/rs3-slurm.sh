@@ -26,4 +26,4 @@ DPT.objects.processDirs(level='channel', cmd='import PyHipp as pyh; from PyHipp 
 print(time.localtime()); \
 print(time.time()-t0);"
 
-aws sns publish --topic-arn arn:aws:sns:ap-southeast-1:012345678901:awsnotify --message "RPLS3JobDone"
+aws sns publish --topic-arn arn:aws:sns:ap-southeast-1:317588558215:awsnotify --message "RPLS3JobDone"

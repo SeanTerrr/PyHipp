@@ -1,0 +1,2 @@
+
+An error occurred (AuthorizationError) when calling the Publish operation: User: arn:aws:sts::317588558215:assumed-role/MyCluster01-ComputeFleetQueues-Role15b342af42246b70-QeuCPD0eM4sT/i-0c7ace8223926a112 is not authorized to perform: SNS:Publish on resource: arn:aws:sns:ap-southeast-1:317588558215:awsnotify because no identity-based policy allows the SNS:Publish action
